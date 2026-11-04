@@ -1,5 +1,7 @@
 # Job Posting Salary Prediction
 
+[![CI](https://github.com/MihirParekh14/job-salary-prediction/actions/workflows/ci.yml/badge.svg)](https://github.com/MihirParekh14/job-salary-prediction/actions/workflows/ci.yml)
+
 Predicting advertised salary from the parts of a job posting visible before you
 apply — title, seniority, work type, location — across 33,246 LinkedIn
 postings.
