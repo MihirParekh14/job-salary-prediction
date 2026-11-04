@@ -1,0 +1,9 @@
+# Everything needed to run the pipeline.
+#
+# The test suite needs none of `datasets`: no test downloads anything or
+# touches the network. It is here because running the project needs it.
+
+pandas>=2.2
+numpy>=1.26
+scikit-learn>=1.4
+datasets>=2.19
